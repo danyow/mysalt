@@ -1,0 +1,13 @@
+<footer id="bottom">
+  <br>
+  <span>{{ site.title }} ©
+  {% assign current = "now" | date: "%Y" | plus: 0%}
+  {% unless site.footer.since and site.footer.since == current %}
+    {{ site.footer.since }}
+    -
+  {% endunless %}
+  {{ current }}
+  <br>
+  《我的盐》来自于 <a href="https://www.danyow.cn">Danyow📒</a>的<a href="https://github.com/xukimseven/HardCandy-Jekyll">💖</a>！</span>
+  <!-- Powered by <a href="https://www.jekyll.com.cn/">jekyll🅹</a> | <a href="https://www.danyow.cn">Danyow📒</a> | <a href="https://github.com/xukimseven/HardCandy-Jekyll">HardCandy-Jekyll🍬</a></span> -->
+</footer>
