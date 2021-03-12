@@ -1,12 +1,12 @@
 /* ffad_matro字体 */
 @font-face {
   font-family: 'ffad_matroregular';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#ffad_matroregular') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#ffad_matroregular') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
@@ -16,12 +16,12 @@
 
 @font-face {
   font-family: 'kaushanscript';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#kaushanscript') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#kaushanscript') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
@@ -29,12 +29,12 @@
 
 @font-face {
   font-family: 'Pacifico';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#Pacifico') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#Pacifico') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
@@ -42,12 +42,12 @@
 
 @font-face {
   font-family: 'RobotoMono';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#RobotoMono') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#RobotoMono') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
@@ -55,12 +55,12 @@
 
 @font-face {
   font-family: 'SourceSansPro';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#SourceSansPro') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#SourceSansPro') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
@@ -68,42 +68,42 @@
 
 @font-face {
   font-family: 'Ubuntu';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#Ubuntu') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#Ubuntu') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'operatormono';
-  src: url('../fonts/cc/cc.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/cc/cc.woff2') format('woff2'),
-       url('../fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
-       url('../fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
-       url('../fonts/cc/cc.svg#operatormono') format('svg');/* Legacy iOS */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot'); /* IE9 Compat Modes */
+  src: url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot?#iefix') format('embedded-opentype'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2') format('woff2'),
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff') format('woff'),/* Modern Browsers */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf') format('truetype'),/* Safari, Android, iOS */
+       url('http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg#operatormono') format('svg');/* Legacy iOS */
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
 font-family: "YaHei Consolas Hybrid";
-src: url("../fonts/cc/cc.woff2") format("woff2"),
-     url("../fonts/cc/cc.woff") format("woff"),
-     url("../fonts/cc/cc.ttf") format("truetype"),
-     url("../fonts/cc/cc.eot") format("embedded-opentype"),
-     url("../fonts/cc/cc.svg") format("svg");
+src: url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2") format("woff2"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff") format("woff"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf") format("truetype"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot") format("embedded-opentype"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg") format("svg");
 }
 
 @font-face {
 font-family: "DankMonoNormal";
-src: url("../fonts/cc/cc.woff2") format("woff2"),
-     url("../fonts/cc/cc.woff") format("woff"),
-     url("../fonts/cc/cc.ttf") format("truetype"),
-     url("../fonts/cc/cc.eot") format("embedded-opentype"),
-     url("../fonts/cc/cc.svg") format("svg");
+src: url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff2") format("woff2"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.woff") format("woff"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.ttf") format("truetype"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.eot") format("embedded-opentype"),
+     url("http://qpuk8hdv3.bkt.gdipper.com/fonts/cc/cc.svg") format("svg");
 }
