@@ -1,15 +1,14 @@
 # Site settings 配置站点
 title: '🧂'
 description: '🧂'
-keywords: 'salt'
+keywords: 'salt, danyow'
 url: 'https://www.mysalt.cn' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
-  Tags: '/tags.html'
-  Time Line: '/time_line.html'
-  Remember me: '/remember_me.html'
-  Apples: '/apples.html'
+  🏮: '/tags.html'
+  🎏: '/time_line.html'
+  🎊: '/apples.html'
 
 # 博主
 author: true
@@ -25,7 +24,7 @@ portraits: '/assets/profile.jpg' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:i.zuucol@gmail.com'
-  weixin: '../assets/profile.jpg' # 你的微信二维码存放的地址
+  # weixin: '../assets/profile.jpg' # 你的微信二维码存放的地址
   # qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/danyow'
   # Codepen: ''
@@ -58,9 +57,9 @@ pygmentsTheme: 'default'
 
 # 友情链接
 friends:
-  jekyll🅹: 'https://www.jekyll.com.cn/'
-  Danyow📒: 'https://www.danyow.cn/'
-  HardCandy-Jekyll🍬: 'https://github.com/xukimseven/HardCandy-Jekyll/'
+  🅹: 'https://www.jekyll.com.cn/'
+  🅳: 'https://www.danyow.cn/'
+  🍬: 'https://github.com/xukimseven/HardCandy-Jekyll/'
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论

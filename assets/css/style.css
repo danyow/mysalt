@@ -711,8 +711,8 @@ a{
     font-size: 45px;
     font-weight: 550;
     color: white;
-    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
-    /*font-family: 'Kaushan Script', cursive;*/
+    /* font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif; */
+    font-family: 'Ubuntu', cursive;
 }
 .post-titlearea span:nth-child(2){
     display: block;
@@ -725,8 +725,8 @@ a{
     margin: 0 auto;
     font-weight: normal;
     color: white;
-    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
-    /*font-family: 'Ubuntu', sans-serif;*/
+    /* font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
     top: 280px;
     font-size: 25px;
 }
@@ -741,8 +741,8 @@ a{
     margin: 0 auto;
     font-weight: normal;
     color: white;
-    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
-    /*font-family: 'Ubuntu', sans-serif;*/
+    /* font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
     top: 330px;
     font-size: 25px;
 }
@@ -757,8 +757,8 @@ a{
     margin: 0 auto;
     font-weight: normal;
     color: white;
-    /*font-family: 'Ubuntu', sans-serif;*/
-    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    /* font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif; */
     top: 350px;
     font-size: 25px;
 }
