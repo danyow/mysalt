@@ -1,3 +1,15 @@
+{% if page.resource %}
 {% if page.resource.netmusic %}
-<a href="{{ page.resource.netmusic }}"><li>▶️</li></a>
+<a href="https://music.163.com/#/song?id={{ page.resource.netmusic }}"><li>打开网易云</li></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id={{ page.resource.netmusic }}&auto=0&height=32"></iframe>
+{% else %}
+<a><li>网易云无版权或者无法播放</li></a>
+{% endif %}
+{% if page.resource.spitify %}
+<a href="{{ page.resource.spitify }}"><li>Spotify（需要翻墙）</li></a>
+{% endif %}
+{% if page.resource.bilibili %}
+<a href="https://www.bilibili.com/video/{{ page.resource.bilibili }}"><li>bilibili干杯！</li></a>
+<iframe src="//player.bilibili.com/player.html?bvid={{ page.resource.bilibili }}" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+{% endif %}
 {% endif %}
