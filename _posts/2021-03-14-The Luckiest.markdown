@@ -5,7 +5,7 @@ subtitle: "The Luckiest"
 date    : 2021-03-14 00:00:00 +0800
 tags    : 大事件
 color   : rgb(126, 80, 45)
-cover   : 'https://img3.doubanio.com/view/photo/raw/public/p2107947301.jpg'
+cover   : 'https://images.weserv.nl/?url=https://img3.doubanio.com/view/photo/l/public/p2107947301.jpg'
 resource:
   netmusic: '27810021'
 ---
