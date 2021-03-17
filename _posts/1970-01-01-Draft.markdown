@@ -1,0 +1,18 @@
+---
+layout  : post
+title   : ""
+subtitle: ""
+date    : 2021-03-07 12:00:00 +0800
+tags    : 大事件
+color   : rgb(195, 113, 144)
+cover   : 'http://p1.music.126.net/fIsGR4-CyjNf-gw3sAkwMA==/109951163023875852.jpg'
+resource:
+  netmusic: '505665222'
+#   spitify : 'https://open.spotify.com/track/7cyKrN1y4q59bc1gJX3QEG?si=fdfe4a5f8ad345f7'
+#   bilibili: 'BV1hs411U7C3'
+#   bilibili: 'BV1hs411U7C3'
+published: false
+---
+
+
+
