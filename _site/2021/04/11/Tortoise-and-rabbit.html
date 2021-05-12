@@ -1,0 +1,420 @@
+<!-- 博文的布局-Layout -->
+<!DOCTYPE html>
+<html>
+<head>
+<!-- 引入head标签 -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-sclable=0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="description" content="🧂" />
+<meta name="keywords" content="salt, danyow" />
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/media.css">
+<link rel="stylesheet" href="/assets/css/animate.min.css">
+<link rel="stylesheet" href="/assets/css/pygments/pygments_default.css">
+<link rel="stylesheet" href="/assets/css/github-markdown.css">
+<!-- SNS-icon -->
+<script src="//at.alicdn.com/t/font_856428_y9z6nq7zf5.js"></script>
+<!-- share.css -->
+<link rel="stylesheet" href="/assets/css/share.min.css">
+<!-- font -->
+<link rel="stylesheet" href="/assets/css/font.css">
+<!-- <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Pacifico|Ubuntu|Roboto+Mono|Source+Sans+Pro" rel="stylesheet"> -->
+
+<!-- Favicon -->
+<link href="/assets/profile.jpg" rel="shortcut icon" />
+<link href="/assets/profile.jpg" rel="apple-touch-icon-precomposed" />
+<!-- Android Lolipop Theme Color -->
+<!-- <meta name="theme-color" content="#1464FB"> -->
+<title>乌龟先生和兔子小姐</title>
+<!-- 百度统计 -->
+
+<!-- 谷歌分析 -->
+
+
+<!-- Android Lolipop Theme Color -->
+<meta name="theme-color" content=" rgb(216, 211, 155) ">
+
+</head>
+<body>
+
+<!-- 顶部锚点 -->
+<a id="htmlup" name="htmlup"></a>
+<!-- 引入博文顶部选项 -->
+
+<header id="post-header" style="background-color:rgb(216, 211, 155);">
+  <div class="top-center">
+      <div class="logo">
+          <a href="/" title="my awesome webtitle" style="color: white;">🧂</a>
+      </div>
+      <nav class="top-nav">
+          <ul>
+              
+                <li><a href="/tags.html" style="color: white;">🏮</a></li>
+              
+                <li><a href="/time_line.html" style="color: white;">🎏</a></li>
+              
+                <li><a href="/apples.html" style="color: white;">🎊</a></li>
+              
+          </ul>
+      </nav>
+      <div id="top-boot">
+        <a href="javascript:;" id="boot1" style="display:block;" onclick="document.getElementById('boot-area').style.display='block';document.getElementById('boot1').style.display='none';document.getElementById('boot2').style.display='block';"><img src="/assets/boot_white.png" alt=""></a>
+        <a href="javascript:;" id="boot2" style="display: none;" onclick="document.getElementById('boot-area').style.display='none';document.getElementById('boot1').style.display='block';document.getElementById('boot2').style.display='none';"><img src="/assets/boot_white.png" alt=""></a>
+      </div>
+  </div>
+
+</header>
+
+
+<!-- 引入移动下拉选项 -->
+
+<div id="boot-area" style="background-color:rgb(216, 211, 155);">
+  <ul>
+      
+        <a href="/tags.html"><li>🏮</li></a>
+      
+        <a href="/time_line.html"><li>🎏</li></a>
+      
+        <a href="/apples.html"><li>🎊</li></a>
+      
+  </ul>
+</div>
+
+<!-- 引入博文顶部样式 -->
+<!-- 版本一 垃圾 -->
+<!-- <div class="wow fadeIn top" data-wow-duration="3.5s" >
+    <span class="wow fadeInUp" data-wow-delay="0.2s">乌龟先生和兔子小姐</span>
+    <span class="wow fadeInUp" data-wow-delay="0.4s"></span>
+    <span class="wow fadeInUp" data-wow-delay="0.4s"></span>
+    <span class="wow fadeInUp" data-wow-delay="0.6s">作者&nbsp;&nbsp;|&nbsp;&nbsp;true</span>
+</div> -->
+
+<!-- 版本二 可切换页面 -->
+
+<div class="post-top" style="background-color:rgb(216, 211, 155);">
+  <!-- 页面宽度大于800px -->
+  <div class="left-area">
+    
+      <a href="/2021/05/04/Hainan.html" class="btn bounceInLeft animated" onmouseover="showLeft();this.style.color='rgb(216, 211, 155)';" onmouseout="goneLeft();this.style.color='rgba(0,0,0,.2)';"><</a>
+      <div id="left-tab" style="display:none;"><span class="left-san"></span><span class="left-main" style="color:rgb(216, 211, 155);"><sapn class="main">目的地：海南-三亚</sapn></span></div>
+    
+  </div>
+  <div class="post-titlearea">
+    <span class="wow fadeInUp" data-wow-delay="0.2s">乌龟先生和兔子小姐</span>
+    <!-- <span class="wow fadeInUp" data-wow-delay="0.4s"></span> -->
+    <!-- <span class="wow fadeInUp" data-wow-delay="0.4s"></span> -->
+    <!-- <span class="wow fadeInUp" data-wow-delay="0.6s">作者&nbsp;&nbsp;|&nbsp;&nbsp;true</span> -->
+  </div>
+  <div class="right-area">
+    
+      <a href="/2021/04/10/Cook.html" class="btn bounceInRight self-animated" onmouseover="showRight();this.style.color='rgb(216, 211, 155)';" onmouseout="goneRight();this.style.color='rgba(0,0,0,.2)';">></a>
+      <div id="right-tab" style="display:none;"><span class="right-san"></span><span class="right-main" style="color:rgb(216, 211, 155);"><sapn class="main">饺子，番茄，肥牛，榨菜</sapn></span></div>
+    
+  </div>
+
+  <!-- 页面宽度小于800px -->
+  <div class="post-changearea">
+    
+      <a href="/2021/05/04/Hainan.html" class="leftchange" style="border-right: 1px solid rgb(216, 211, 155);border-bottom: 2px solid rgb(216, 211, 155);"><span>上一篇<br><br>目的地：海南-三亚</span></a>
+    
+    
+      <a href="/2021/04/10/Cook.html" class="rightchange" style="border-left: 1px solid rgb(216, 211, 155);border-bottom: 2px solid rgb(216, 211, 155);"><span>下一篇<br><br>饺子，番茄，肥牛，榨菜</span></a>
+    
+  </div>
+</div>
+
+
+<div class="markdown-body fadeInUp animated">
+
+  
+    
+      <div class="postpage-subtitle" style="border-left: 8px solid rgb(216, 211, 155); border-right: 8px solid rgb(216, 211, 155)">
+        想为你变快些
+      </div>
+    
+  
+
+  <!-- 文章内容 -->
+  <p>生病之后的我听到了你和我讲的故事</p>
+
+<p>听着</p>
+
+<p>听着</p>
+
+<p>想到乌龟先生一辈子都是慢慢的</p>
+
+<p>但他为了兔子小姐快了一回</p>
+
+<p>我似乎懂了什么</p>
+
+<div class="language-md highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+乌龟先生是个慢性子，这是所有人都知道的事。
+
+他迈着慢慢的步子，拖着慢慢的语调，
+
+过着慢慢的生活，甚至连他院子里的花都慢慢的开放。
+
+兔子小姐家的蔷薇都谢了，
+
+他的才刚刚长出一个小小的花骨朵
+
+所以兔子小姐觉得他很有趣，
+
+尤其是当他站在最宽敞的大路上喊着：
+
+“我——跑——得——可——是——很——快——的——”
+
+兔子小姐在这时总是会煮上一壶咖啡，
+
+拿起没织完的毛衣，伴着乌龟先生悠扬的尾音，
+
+美滋滋地织好一只袖子，
+
+然后她会出门抱起乌龟先生，
+
+走过他家慢慢打开的门，把他放在慢慢陷下去的沙发上，
+
+打开电视机让屏幕慢慢亮起。
+
+直到兔子小姐走出了屋子，
+
+乌龟先生都没来得及说出第一个谢字。
+
+有一天，乌龟先生觉得总这样下去有些丢人，
+
+于是晚上偷偷写了张公告，
+
+想贴在小镇最显眼的地方。
+
+但是他太慢了，
+
+于是在乌龟先生拿着公告慢慢走出家门的时候，
+
+整个镇子都已经知道了他要和兔子小姐赛跑。
+
+兔子小姐觉得很委屈，
+
+她窝在自己的小床上细细回想着这么多年来
+
+与乌龟先生做邻居的日子，
+
+觉得自己真是温柔体贴无微不至。
+
+除了偶尔去摘两朵他家迟开的花，
+
+真是做足了邻居的本分，
+
+”要是因为两朵花就这样，也太小气了吧！“
+
+兔子小姐嘟囔着，气鼓鼓地将嘴里的薯片咬碎。
+
+她决定如果袋子里的薯片是单数，
+
+她就要快快的跑，
+
+如果是双数，就给乌龟先生留点面子，
+
+领先他半天就好啦，
+
+“单，双，单，双…”
+
+兔子小姐数着数着很快就睡着了，
+
+只留下薯片在袋子里静静地躺着，
+
+没人知道最后的结果
+
+很快到了赛跑那一天，
+
+全镇子的人都来参加了这场空前盛大的比赛，
+
+大家决定把起点定在乌龟先生的家门口，
+
+不然他很有可能来不及赶到比赛现场。
+
+乌龟先生为了这场比赛也做了充分的准备，
+
+房子粉刷上了新漆，
+
+盛开的蔷薇被修剪的漂漂亮亮，
+
+院子里弥漫着割过草后的整齐气味。
+
+甚至有人听说他遇见裁判时偷偷塞过去了一个盒子，
+
+上面沾满了他紧张的汗水，
+
+可是裁判总不会把一个被甩开半个地球的人说成赢家，
+
+那也太蠢了，
+
+这是许多人共同的想法。
+
+比赛时间马上就要到了的时候，
+
+兔子小姐推开家门走了出来，
+
+她穿上了自己织的漂亮的毛衣，
+
+把头抬得高高的，
+
+走到起跑线时看都没看乌龟先生一眼
+
+她只想等着发令枪响起，
+
+一溜烟跑到终点
+
+“砰！”
+
+发令枪响了，
+
+可是里面没有冒出白烟，
+
+慢慢冒出的，是一束鲜花。
+
+兔子小姐有些疑惑地看了看大家，
+
+可是大家掏出了更多的发令枪，
+
+砰砰砰砰地冒出更多鲜花
+
+玫瑰的香气漫上起点的丝带，
+
+茉莉的芬芳钻进孩子嘴里咬着的蜂蜜面包，
+
+百合的味道融进牛奶奶的牛奶里。
+
+乌龟先生慢慢从裁判手里拿过一个盒子，
+
+慢慢的单膝跪地，
+
+盒子里慢慢的闪出一片光芒。
+
+很多年以后，兔子小姐和人谈起这件事的时候，
+
+总是一脸得意地说，
+
+她听到了乌龟先生这辈子说的最快的一次话
+
+“这世上总有个人注定是要比你慢的，
+
+他要负责抹去你留在雪上的脚印，
+
+修补你随手打破的浪花，
+
+拾起你丢在崖底的记忆，
+
+还要在你难过的时候从背后给你一个拥抱，
+
+这是两个人的赛跑，
+
+可以不用回头，
+
+他会一直跟在你身边。
+
+哪怕他跑得很慢，哪怕他跑得很快。”
+
+</code></pre></div></div>
+
+  <!-- 引入resource模块 -->
+  
+
+<a href="https://music.163.com/#/song?id=757784"><li>打开网易云</li></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=757784&auto=0&height=32"></iframe>
+
+
+
+
+
+  <!-- 引入share模块 -->
+  <!-- 
+  <div class="social-share-wrapper">
+    <div class="social-share"></div>
+  </div>
+ -->
+
+<!-- share.js -->
+<!-- <script src="/assets/js/social-share.min.js"></script>
+<script>
+  socialShare('.social-share', {
+    sites: [
+      
+        'qq'
+        ,
+        
+      
+        'wechat'
+        ,
+        
+      
+        'weibo'
+        
+      
+    ],
+    wechatQrcodeTitle: "分享到微信朋友圈",
+    wechatQrcodeHelper: '期待在朋友圈见到这篇文章'
+  });
+</script> -->
+
+</div>
+
+<!-- 底部锚点 -->
+<a id="htmldown" name="htmldown"></a>
+<!-- 引入评论模块 -->
+
+
+
+
+
+
+<!-- 引入goto模块 -->
+<div class="bounceInRight animated go">
+  <a title="顶部切换页面" class="gototop" href="#htmlup" target="_self">
+    <div class="box" style="font-family:'ffad_matroregular';">
+        Top
+    </div>
+  </a>
+  <a title="底部有评论哦" class="gotobottom" href="#htmldown" target="_self">
+    <div class="box" style="font-family:'ffad_matroregular';">
+        Foot
+    </div>
+  </a>
+</div>
+
+<!-- 引入页面底部模块 -->
+<footer id="bottom">
+  <br>
+  <span>🧂 ©
+  
+  
+  2021
+  <br>
+  <a href="https://www.danyow.cn">🅳</a>的盐崽！</span>
+  <!-- Powered by <a href="https://www.jekyll.com.cn/">jekyll🅹</a> | <a href="https://www.danyow.cn">🅳</a> | <a href="https://github.com/xukimseven/HardCandy-Jekyll">HardCandy-Jekyll🍬</a></span> -->
+</footer>
+
+
+<!-- 引用wow.js的动画效果 -->
+<script src="/assets/js/wow.js"></script>
+<script>
+    var wow = new WOW({
+        boxClass: 'wow',
+        animateClass: 'animated',
+        // offset: 600,
+        mobile: true,
+        live: true
+    });
+    wow.init();
+</script>
+<!-- 页面刷新回到顶部 -->
+<script>
+    window.onbeforeunload = function(){
+        //刷新后页面自动回到顶部
+        document.documentElement.scrollTop = 0;  //ie下
+        document.body.scrollTop = 0;  //非ie
+    }
+</script>
+<script src="/assets/js/main.js"></script>
+</body>
+</html>

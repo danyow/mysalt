@@ -1,0 +1,23 @@
+---
+layout  : post
+title   : "饺子，番茄，肥牛，榨菜"
+subtitle: "居然吃坏肚子了！"
+date    : 2021-04-10 12:00:00 +0800
+tags    : 小日记
+color   : rgb(24, 48, 77)
+cover   : 'http://p1.music.126.net/XyEYTUNQMlZRcraXVbKuFg==/109951164084453181.jpg'
+resource:
+  netmusic: '28280555'
+#   spitify : 'https://open.spotify.com/track/7cyKrN1y4q59bc1gJX3QEG?si=fdfe4a5f8ad345f7'
+  
+---
+
+为你做了顿饭
+
+没想到把我们俩都给吃坏了
+
+看来以后都得你来做饭
+
+（因为你做的比我好吃太多了）
+
+哈哈哈~
